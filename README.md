@@ -2,8 +2,6 @@
 
 **Twitch Profile Picture Retriever (TPPR)** est une application web développée en Python avec Flask. Elle permet aux streamers de leur chaîne Twitch d'afficher et de télécharger les photos de profil de leurs abonnés.
 
-Une entête stylisée donnant l'identité de l'application est affichée sur chaque page, indiquant clairement le nom de l'outil et le pseudo **S0URC3K0D** en tant qu'auteur.
-
 ## Description
 
 L'application fonctionne en deux temps :
