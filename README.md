@@ -47,8 +47,8 @@ L'application fonctionne en deux temps :
 
 1. **Cloner le dépôt**  
    ```bash
-   git clone https://votre-depot.git
-   cd votre-dossier
+   git clone https://github.com/s0urc3k0d/TPPR.git
+   cd TPPR
 
 2. **Installer les dépendances**  
    ```bash
